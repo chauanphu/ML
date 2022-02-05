@@ -1,1 +1,1 @@
-# This repository contains multile ML projects
+# This repository contains multiple ML projects
